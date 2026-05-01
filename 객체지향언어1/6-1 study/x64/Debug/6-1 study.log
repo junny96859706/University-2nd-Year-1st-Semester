@@ -1,6 +1,0 @@
-﻿  overloading.cpp
-  practice.cpp
-C:\Users\junny\OneDrive\바탕 화면\2학년1학기\객체지향언어1\6-1 study\overloading.cpp(29,10): error C2065: 'sum': 선언되지 않은 식별자입니다.
-C:\Users\junny\OneDrive\바탕 화면\2학년1학기\객체지향언어1\6-1 study\overloading.cpp(30,1): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
-  코드를 생성하고 있습니다...
-C:\Users\junny\OneDrive\바탕 화면\2학년1학기\객체지향언어1\6-1 study\practice.cpp(13,1): error C4716: 'big': 값을 반환해야 합니다.

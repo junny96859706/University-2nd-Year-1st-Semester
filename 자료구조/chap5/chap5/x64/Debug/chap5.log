@@ -1,3 +1,0 @@
-﻿  malloc.c
-C:\Users\junny\OneDrive\바탕 화면\2학년1학기\자료구조\chap5\malloc.c(18,2): warning C4013: 'strcpy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-  chap5.vcxproj -> C:\Users\junny\OneDrive\바탕 화면\2학년1학기\자료구조\chap5\x64\Debug\chap5.exe

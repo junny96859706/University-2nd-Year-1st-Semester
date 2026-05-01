@@ -1,3 +1,0 @@
-﻿  filecmp.c
-C:\Users\junny\OneDrive\바탕 화면\2학년1학기\프로그래밍랩\파일입출력\week7homework\filecmp.c(37,7): warning C4013: 'strcmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-  week7homework.vcxproj -> C:\Users\junny\OneDrive\바탕 화면\2학년1학기\프로그래밍랩\파일입출력\x64\Debug\week7homework.exe

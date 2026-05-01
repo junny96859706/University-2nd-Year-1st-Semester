@@ -1,4 +1,0 @@
-﻿  malloc2.c
-C:\Users\junny\OneDrive\바탕 화면\2학년1학기\자료구조\Project2\malloc2.c(24,11): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'char *'입니다.
-C:\Users\junny\OneDrive\바탕 화면\2학년1학기\자료구조\Project2\malloc2.c(24,11): warning C4313: 'printf': 서식 문자열의 '%d'이(가) char *' 형식의 인수 4과(와) 충돌합니다.
-  Project2.vcxproj -> C:\Users\junny\OneDrive\바탕 화면\2학년1학기\자료구조\chap5\x64\Debug\Project2.exe

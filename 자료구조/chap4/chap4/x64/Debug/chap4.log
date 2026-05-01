@@ -1,3 +1,0 @@
-﻿  transpose.c
-C:\Users\junny\OneDrive\바탕 화면\2학년1학기\자료구조\chap4\transpose.c(7,6): warning C4101: 'number' :참조되지 않은 지역 변수입니다.
-  chap4.vcxproj -> C:\Users\junny\OneDrive\바탕 화면\2학년1학기\자료구조\chap4\x64\Debug\chap4.exe

@@ -1,0 +1,15 @@
+# Visual Studio 빌드/임시 파일 제외
+.vs/
+Debug/
+Release/
+x64/
+x86/
+*.exe
+*.obj
+*.o
+*.pdb
+*.ipch
+*.sln
+*.vcxproj
+*.filters
+*.user
