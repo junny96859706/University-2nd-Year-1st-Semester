@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="5-6큐의응용 시뮬레이션/5-6큐의응용 시뮬레이션.vcxproj" Id="710aa9d9-14af-401f-a3cf-40ca8c784506" />
+  <Project Path="7주차과제/7주차과제.vcxproj" Id="c4f1e7a4-2848-4fdd-85a6-a02f37aab574" />
+  <Project Path="week7/week7.vcxproj" Id="9fcb0e19-b5e4-4f45-995f-9465380c985d" />
+  <Project Path="선형큐의 구현/선형큐의 구현.vcxproj" Id="68f03c2c-4695-412a-a99e-724f497d9e4e" />
+</Solution>

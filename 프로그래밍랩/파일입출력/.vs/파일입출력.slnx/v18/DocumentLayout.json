@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\junny\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2\uD559\uB1441\uD559\uAE30\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uD30C\uC77C\uC785\uCD9C\uB825\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2661E5E4-E227-48EF-9133-65D8E32B464F}|week7homework\\week7homework.vcxproj|C:\\Users\\junny\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2\uD559\uB1441\uD559\uAE30\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uD30C\uC77C\uC785\uCD9C\uB825\\week7homework\\filecmp.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2661E5E4-E227-48EF-9133-65D8E32B464F}|week7homework\\week7homework.vcxproj|solutionrelative:week7homework\\filecmp.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E106B452-6023-4E49-BDAD-0086DB3B405E}|Project1\\Project1.vcxproj|C:\\Users\\junny\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2\uD559\uB1441\uD559\uAE30\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uD30C\uC77C\uC785\uCD9C\uB825\\Project1\\text.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E106B452-6023-4E49-BDAD-0086DB3B405E}|Project1\\Project1.vcxproj|solutionrelative:Project1\\text.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4766524-55F0-418F-8AC9-C08AE8A20939}|\uC131\uC801\uC744 \uD30C\uC77C\uC5D0 \uAE30\uB85D\uD558\uAE30\\\uC131\uC801\uC744 \uD30C\uC77C\uC5D0 \uAE30\uB85D\uD558\uAE30.vcxproj|C:\\Users\\junny\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2\uD559\uB1441\uD559\uAE30\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uD30C\uC77C\uC785\uCD9C\uB825\\\uC131\uC801\uC744 \uD30C\uC77C\uC5D0 \uAE30\uB85D\uD558\uAE30\\grade.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F4766524-55F0-418F-8AC9-C08AE8A20939}|\uC131\uC801\uC744 \uD30C\uC77C\uC5D0 \uAE30\uB85D\uD558\uAE30\\\uC131\uC801\uC744 \uD30C\uC77C\uC5D0 \uAE30\uB85D\uD558\uAE30.vcxproj|solutionrelative:\uC131\uC801\uC744 \uD30C\uC77C\uC5D0 \uAE30\uB85D\uD558\uAE30\\grade.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "filecmp.c",
+              "DocumentMoniker": "C:\\Users\\junny\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2\uD559\uB1441\uD559\uAE30\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uD30C\uC77C\uC785\uCD9C\uB825\\week7homework\\filecmp.c",
+              "RelativeDocumentMoniker": "week7homework\\filecmp.c",
+              "ToolTip": "C:\\Users\\junny\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2\uD559\uB1441\uD559\uAE30\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uD30C\uC77C\uC785\uCD9C\uB825\\week7homework\\filecmp.c",
+              "RelativeToolTip": "week7homework\\filecmp.c",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAowC8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-18T07:35:30.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "grade.c",
+              "DocumentMoniker": "C:\\Users\\junny\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2\uD559\uB1441\uD559\uAE30\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uD30C\uC77C\uC785\uCD9C\uB825\\\uC131\uC801\uC744 \uD30C\uC77C\uC5D0 \uAE30\uB85D\uD558\uAE30\\grade.c",
+              "RelativeDocumentMoniker": "\uC131\uC801\uC744 \uD30C\uC77C\uC5D0 \uAE30\uB85D\uD558\uAE30\\grade.c",
+              "ToolTip": "C:\\Users\\junny\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2\uD559\uB1441\uD559\uAE30\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uD30C\uC77C\uC785\uCD9C\uB825\\\uC131\uC801\uC744 \uD30C\uC77C\uC5D0 \uAE30\uB85D\uD558\uAE30\\grade.c",
+              "RelativeToolTip": "\uC131\uC801\uC744 \uD30C\uC77C\uC5D0 \uAE30\uB85D\uD558\uAE30\\grade.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-16T06:52:47.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "text.c",
+              "DocumentMoniker": "C:\\Users\\junny\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2\uD559\uB1441\uD559\uAE30\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uD30C\uC77C\uC785\uCD9C\uB825\\Project1\\text.c",
+              "RelativeDocumentMoniker": "Project1\\text.c",
+              "ToolTip": "C:\\Users\\junny\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2\uD559\uB1441\uD559\uAE30\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uD30C\uC77C\uC785\uCD9C\uB825\\Project1\\text.c",
+              "RelativeToolTip": "Project1\\text.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-16T06:09:55.552Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../4.2/4.2.vcxproj" Id="147ef94c-710b-431c-97ed-87cfec5d3fa9" />
+  <Project Path="../4.3/4.3.vcxproj" Id="7ecdf850-4a77-4ece-86aa-4e2f1ee487b1" />
+  <Project Path="../4.3new/4.3new.vcxproj" Id="d6599296-0867-45c5-a901-c1dec94bbdf3" />
+  <Project Path="../4.4/4.4.vcxproj" Id="7ccd1c7c-3bba-470e-b39a-51ed80526294" />
+  <Project Path="../openchallenge/openchallenge.vcxproj" Id="01ad4198-5920-4414-b960-bd56d09c6f1a" />
+  <Project Path="../study4.1/study4.1.vcxproj" Id="ee7ca801-b0c0-4b12-8659-5a739898f83e" />
+  <Project Path="../study4.3/study4.3.vcxproj" Id="467c6e00-7b4e-403e-b2d1-02134e4c76e4" />
+  <Project Path="../study4.4/study4.4.vcxproj" Id="980ea1b3-5f8d-4354-8e0a-581153436fab" />
+  <Project Path="chap5.vcxproj" Id="2ab744aa-e750-49ef-8b81-8f1bf16af9ce" />
+</Solution>

@@ -1,0 +1,37 @@
+﻿  coffeesugar.cpp
+C:\Users\junny\OneDrive\바탕 화면\2학년1학기\객체지향언어1\chap3\3-2실습예제\coffeesugar.cpp(51,9): error C2248: 'Coffee::Coffee': private 멤버('Coffee' 클래스에서 선언)에 액세스할 수 없습니다.
+      C:\Users\junny\OneDrive\바탕 화면\2학년1학기\객체지향언어1\chap3\3-2실습예제\coffeesugar.cpp(14,9):
+      'Coffee::Coffee' 선언을 참조하십시오.
+      C:\Users\junny\OneDrive\바탕 화면\2학년1학기\객체지향언어1\chap3\3-2실습예제\coffeesugar.cpp(5,7):
+      'Coffee' 선언을 참조하십시오.
+  
+C:\Users\junny\OneDrive\바탕 화면\2학년1학기\객체지향언어1\chap3\3-2실습예제\coffeesugar.cpp(52,18): error C2248: 'Coffee::Coffee': private 멤버('Coffee' 클래스에서 선언)에 액세스할 수 없습니다.
+      C:\Users\junny\OneDrive\바탕 화면\2학년1학기\객체지향언어1\chap3\3-2실습예제\coffeesugar.cpp(18,9):
+      'Coffee::Coffee' 선언을 참조하십시오.
+      C:\Users\junny\OneDrive\바탕 화면\2학년1학기\객체지향언어1\chap3\3-2실습예제\coffeesugar.cpp(5,7):
+      'Coffee' 선언을 참조하십시오.
+  
+C:\Users\junny\OneDrive\바탕 화면\2학년1학기\객체지향언어1\chap3\3-2실습예제\coffeesugar.cpp(53,20): error C2248: 'Coffee::Coffee': private 멤버('Coffee' 클래스에서 선언)에 액세스할 수 없습니다.
+      C:\Users\junny\OneDrive\바탕 화면\2학년1학기\객체지향언어1\chap3\3-2실습예제\coffeesugar.cpp(18,9):
+      'Coffee::Coffee' 선언을 참조하십시오.
+      C:\Users\junny\OneDrive\바탕 화면\2학년1학기\객체지향언어1\chap3\3-2실습예제\coffeesugar.cpp(5,7):
+      'Coffee' 선언을 참조하십시오.
+  
+C:\Users\junny\OneDrive\바탕 화면\2학년1학기\객체지향언어1\chap3\3-2실습예제\coffeesugar.cpp(54,16): error C2248: 'Coffee::Coffee': private 멤버('Coffee' 클래스에서 선언)에 액세스할 수 없습니다.
+      C:\Users\junny\OneDrive\바탕 화면\2학년1학기\객체지향언어1\chap3\3-2실습예제\coffeesugar.cpp(18,9):
+      'Coffee::Coffee' 선언을 참조하십시오.
+      C:\Users\junny\OneDrive\바탕 화면\2학년1학기\객체지향언어1\chap3\3-2실습예제\coffeesugar.cpp(5,7):
+      'Coffee' 선언을 참조하십시오.
+  
+C:\Users\junny\OneDrive\바탕 화면\2학년1학기\객체지향언어1\chap3\3-2실습예제\coffeesugar.cpp(56,11): error C2248: 'Coffee::show': private 멤버('Coffee' 클래스에서 선언)에 액세스할 수 없습니다.
+      C:\Users\junny\OneDrive\바탕 화면\2학년1학기\객체지향언어1\chap3\3-2실습예제\coffeesugar.cpp(22,14):
+      'Coffee::show' 선언을 참조하십시오.
+      C:\Users\junny\OneDrive\바탕 화면\2학년1학기\객체지향언어1\chap3\3-2실습예제\coffeesugar.cpp(5,7):
+      'Coffee' 선언을 참조하십시오.
+  
+C:\Users\junny\OneDrive\바탕 화면\2학년1학기\객체지향언어1\chap3\3-2실습예제\coffeesugar.cpp(58,10): error C2248: 'Coffee::show': private 멤버('Coffee' 클래스에서 선언)에 액세스할 수 없습니다.
+      C:\Users\junny\OneDrive\바탕 화면\2학년1학기\객체지향언어1\chap3\3-2실습예제\coffeesugar.cpp(22,14):
+      'Coffee::show' 선언을 참조하십시오.
+      C:\Users\junny\OneDrive\바탕 화면\2학년1학기\객체지향언어1\chap3\3-2실습예제\coffeesugar.cpp(5,7):
+      'Coffee' 선언을 참조하십시오.
+  

@@ -1,0 +1,4 @@
+﻿  dictionary.c
+C:\Users\junny\OneDrive\바탕 화면\2학년1학기\프로그래밍랩\단어사전만들기\dictionary.c(7,9): warning C4101: 'index' :참조되지 않은 지역 변수입니다.
+C:\Users\junny\OneDrive\바탕 화면\2학년1학기\프로그래밍랩\단어사전만들기\dictionary.c(7,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  단어사전만들기.vcxproj -> C:\Users\junny\OneDrive\바탕 화면\2학년1학기\프로그래밍랩\week6\x64\Debug\단어사전만들기.exe

@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Project1/Project1.vcxproj" Id="e106b452-6023-4e49-bdad-0086db3b405e" />
+  <Project Path="week7homework/week7homework.vcxproj" Id="2661e5e4-e227-48ef-9133-65d8e32b464f" />
+  <Project Path="성적을 파일에 기록하기/성적을 파일에 기록하기.vcxproj" Id="f4766524-55f0-418f-8ac9-c08ae8a20939" />
+</Solution>

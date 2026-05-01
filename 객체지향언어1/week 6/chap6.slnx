@@ -1,0 +1,22 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../avg/avg.vcxproj" Id="56726f7d-dbd2-478c-93c8-eb33857b16e0" />
+  <Project Path="../circle/circle.vcxproj" Id="a496f957-730a-4c8b-9556-de3afe25316f" />
+  <Project Path="../reference/reference.vcxproj" Id="47696ae7-5bbe-43ac-8961-90f02e9abb60" />
+  <Project Path="../refreturn/refreturn.vcxproj" Id="5b9669aa-725d-47e1-b439-3e2ca3b298c3" />
+  <Project Path="../study 5.4/study 5.4.vcxproj" Id="0b5e6a65-e1eb-42a9-93a3-4ada35b9c92f" />
+  <Project Path="../study1/study1.vcxproj" Id="94b87534-51ef-46a6-a543-381a8185a163" />
+  <Project Path="../study2/study2.vcxproj" Id="c4ac0acf-8b97-4db1-a5a2-4aa96fc5f60e" />
+  <Project Path="../study_avg/study_avg.vcxproj" Id="b2331b60-a730-4c6b-88ba-165fcc11dc68" />
+  <Project Path="../실습문제1번/실습문제1번.vcxproj" Id="701863af-f703-4d17-997f-4d16827e7b36" />
+  <Project Path="../실습문제2번/실습문제2번.vcxproj" Id="86a0f7ec-73e9-4644-bc87-fe1b48adbda0" />
+  <Project Path="../실습문제3번/실습문제3번.vcxproj" Id="73976405-ee47-4ba3-b912-1e25863704d8" />
+  <Project Path="../실습문제5번/실습문제5번.vcxproj" Id="4e433c10-6ce1-42a1-a8fd-72d028e80a13" />
+  <Project Path="../실습문제6번/실습문제6번.vcxproj" Id="190c7915-521d-43b5-b53f-eb5da8c673e5" />
+  <Project Path="../실습문제7번/실습문제7번.vcxproj" Id="b69916b2-bf72-40e5-8786-4f4bc1035aca" />
+  <Project Path="../실습문제8번/실습문제8번.vcxproj" Id="f8df0d37-1072-4b56-a734-c47a7fdc61f0" />
+  <Project Path="chap6.vcxproj" Id="7a4c031c-0888-4a90-8fa0-97f3e2d372cc" />
+</Solution>

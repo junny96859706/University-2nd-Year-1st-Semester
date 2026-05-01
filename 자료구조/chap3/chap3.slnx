@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../프랩 소수검사함수/프랩 소수검사함수.vcxproj" Id="14dd3a91-069f-4e16-850a-dc2b92156655" />
+  <Project Path="chap3.vcxproj" Id="6d419970-d881-4ce6-b8dd-b3b0a71a5940" />
+</Solution>

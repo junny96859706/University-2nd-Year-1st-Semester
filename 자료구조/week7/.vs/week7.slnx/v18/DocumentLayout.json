@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\junny\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2\uD559\uB1441\uD559\uAE30\\\uC790\uB8CC\uAD6C\uC870\\week7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F1E7A4-2848-4FDD-85A6-A02F37AAB574}|7\uC8FC\uCC28\uACFC\uC81C\\7\uC8FC\uCC28\uACFC\uC81C.vcxproj|C:\\Users\\junny\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2\uD559\uB1441\uD559\uAE30\\\uC790\uB8CC\uAD6C\uC870\\week7\\7\uC8FC\uCC28\uACFC\uC81C\\deck.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C4F1E7A4-2848-4FDD-85A6-A02F37AAB574}|7\uC8FC\uCC28\uACFC\uC81C\\7\uC8FC\uCC28\uACFC\uC81C.vcxproj|solutionrelative:7\uC8FC\uCC28\uACFC\uC81C\\deck.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FCB0E19-B5E4-4F45-995F-9465380C985D}|week7\\week7.vcxproj|C:\\Users\\junny\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2\uD559\uB1441\uD559\uAE30\\\uC790\uB8CC\uAD6C\uC870\\week7\\week7\\circleque.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9FCB0E19-B5E4-4F45-995F-9465380C985D}|week7\\week7.vcxproj|solutionrelative:week7\\circleque.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710AA9D9-14AF-401F-A3CF-40CA8C784506}|5-6\uD050\uC758\uC751\uC6A9 \uC2DC\uBBAC\uB808\uC774\uC158\\5-6\uD050\uC758\uC751\uC6A9 \uC2DC\uBBAC\uB808\uC774\uC158.vcxproj|C:\\Users\\junny\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2\uD559\uB1441\uD559\uAE30\\\uC790\uB8CC\uAD6C\uC870\\week7\\5-6\uD050\uC758\uC751\uC6A9 \uC2DC\uBBAC\uB808\uC774\uC158\\service.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{710AA9D9-14AF-401F-A3CF-40CA8C784506}|5-6\uD050\uC758\uC751\uC6A9 \uC2DC\uBBAC\uB808\uC774\uC158\\5-6\uD050\uC758\uC751\uC6A9 \uC2DC\uBBAC\uB808\uC774\uC158.vcxproj|solutionrelative:5-6\uD050\uC758\uC751\uC6A9 \uC2DC\uBBAC\uB808\uC774\uC158\\service.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F03C2C-4695-412A-A99E-724F497D9E4E}|\uC120\uD615\uD050\uC758 \uAD6C\uD604\\\uC120\uD615\uD050\uC758 \uAD6C\uD604.vcxproj|C:\\Users\\junny\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2\uD559\uB1441\uD559\uAE30\\\uC790\uB8CC\uAD6C\uC870\\week7\\\uC120\uD615\uD050\uC758 \uAD6C\uD604\\linear_queue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{68F03C2C-4695-412A-A99E-724F497D9E4E}|\uC120\uD615\uD050\uC758 \uAD6C\uD604\\\uC120\uD615\uD050\uC758 \uAD6C\uD604.vcxproj|solutionrelative:\uC120\uD615\uD050\uC758 \uAD6C\uD604\\linear_queue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "deck.c",
+              "DocumentMoniker": "C:\\Users\\junny\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2\uD559\uB1441\uD559\uAE30\\\uC790\uB8CC\uAD6C\uC870\\week7\\7\uC8FC\uCC28\uACFC\uC81C\\deck.c",
+              "RelativeDocumentMoniker": "7\uC8FC\uCC28\uACFC\uC81C\\deck.c",
+              "ToolTip": "C:\\Users\\junny\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2\uD559\uB1441\uD559\uAE30\\\uC790\uB8CC\uAD6C\uC870\\week7\\7\uC8FC\uCC28\uACFC\uC81C\\deck.c",
+              "RelativeToolTip": "7\uC8FC\uCC28\uACFC\uC81C\\deck.c",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-19T13:21:01.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "linear_queue.c",
+              "DocumentMoniker": "C:\\Users\\junny\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2\uD559\uB1441\uD559\uAE30\\\uC790\uB8CC\uAD6C\uC870\\week7\\\uC120\uD615\uD050\uC758 \uAD6C\uD604\\linear_queue.c",
+              "RelativeDocumentMoniker": "\uC120\uD615\uD050\uC758 \uAD6C\uD604\\linear_queue.c",
+              "ToolTip": "C:\\Users\\junny\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2\uD559\uB1441\uD559\uAE30\\\uC790\uB8CC\uAD6C\uC870\\week7\\\uC120\uD615\uD050\uC758 \uAD6C\uD604\\linear_queue.c",
+              "RelativeToolTip": "\uC120\uD615\uD050\uC758 \uAD6C\uD604\\linear_queue.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-19T12:04:53.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "service.c",
+              "DocumentMoniker": "C:\\Users\\junny\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2\uD559\uB1441\uD559\uAE30\\\uC790\uB8CC\uAD6C\uC870\\week7\\5-6\uD050\uC758\uC751\uC6A9 \uC2DC\uBBAC\uB808\uC774\uC158\\service.c",
+              "RelativeDocumentMoniker": "5-6\uD050\uC758\uC751\uC6A9 \uC2DC\uBBAC\uB808\uC774\uC158\\service.c",
+              "ToolTip": "C:\\Users\\junny\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2\uD559\uB1441\uD559\uAE30\\\uC790\uB8CC\uAD6C\uC870\\week7\\5-6\uD050\uC758\uC751\uC6A9 \uC2DC\uBBAC\uB808\uC774\uC158\\service.c",
+              "RelativeToolTip": "5-6\uD050\uC758\uC751\uC6A9 \uC2DC\uBBAC\uB808\uC774\uC158\\service.c",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-16T04:59:08.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "circleque.c",
+              "DocumentMoniker": "C:\\Users\\junny\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2\uD559\uB1441\uD559\uAE30\\\uC790\uB8CC\uAD6C\uC870\\week7\\week7\\circleque.c",
+              "RelativeDocumentMoniker": "week7\\circleque.c",
+              "ToolTip": "C:\\Users\\junny\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2\uD559\uB1441\uD559\uAE30\\\uC790\uB8CC\uAD6C\uC870\\week7\\week7\\circleque.c",
+              "RelativeToolTip": "week7\\circleque.c",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAADEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-16T04:41:49.139Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

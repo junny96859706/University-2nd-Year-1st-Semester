@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\junny\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2\uD559\uB1441\uD559\uAE30\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\week6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE5B9C4-E243-42BA-AE1B-5B5F10D712F9}|..\\\uB2E8\uC5B4\uC0AC\uC804\uB9CC\uB4E4\uAE30\\\uB2E8\uC5B4\uC0AC\uC804\uB9CC\uB4E4\uAE30.vcxproj|C:\\Users\\junny\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2\uD559\uB1441\uD559\uAE30\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uB2E8\uC5B4\uC0AC\uC804\uB9CC\uB4E4\uAE30\\dictionary.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54157F1F-33D7-4BFC-B23F-923258CDBC79}|week6.vcxproj|C:\\Users\\junny\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2\uD559\uB1441\uD559\uAE30\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\week6\\maze.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{54157F1F-33D7-4BFC-B23F-923258CDBC79}|week6.vcxproj|solutionrelative:maze.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 281,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dictionary.c",
+              "DocumentMoniker": "C:\\Users\\junny\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2\uD559\uB1441\uD559\uAE30\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uB2E8\uC5B4\uC0AC\uC804\uB9CC\uB4E4\uAE30\\dictionary.c",
+              "RelativeDocumentMoniker": "..\\\uB2E8\uC5B4\uC0AC\uC804\uB9CC\uB4E4\uAE30\\dictionary.c",
+              "ToolTip": "C:\\Users\\junny\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2\uD559\uB1441\uD559\uAE30\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uB2E8\uC5B4\uC0AC\uC804\uB9CC\uB4E4\uAE30\\dictionary.c",
+              "RelativeToolTip": "..\\\uB2E8\uC5B4\uC0AC\uC804\uB9CC\uB4E4\uAE30\\dictionary.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-09T06:47:42.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "maze.c",
+              "DocumentMoniker": "C:\\Users\\junny\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2\uD559\uB1441\uD559\uAE30\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\week6\\maze.c",
+              "RelativeDocumentMoniker": "maze.c",
+              "ToolTip": "C:\\Users\\junny\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2\uD559\uB1441\uD559\uAE30\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\week6\\maze.c",
+              "RelativeToolTip": "maze.c",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAD4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-09T06:12:18.995Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

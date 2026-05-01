@@ -1,0 +1,16 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../5-5 person class/5-5 person class.vcxproj" Id="ef537cf8-3050-43ba-b0c1-3c3725dd4dc9" />
+  <Project Path="../6-1 study/6-1 study.vcxproj" Id="8a5c17be-a523-451b-ad63-0c79a693b9f5" />
+  <Project Path="../6-2강의/6-2강의.vcxproj" Id="c11e1ceb-e9bb-4661-9659-cc4f42a0ecbd" />
+  <Project Path="../6-2디폴트매개변수/6-2디폴트매개변수.vcxproj" Id="6093409e-1042-4092-b0e0-738699084710" />
+  <Project Path="../예제6-4/예제6-4.vcxproj" Id="ca6825f1-ddfd-43c9-bc01-da0309ca2a38" />
+  <Project Path="6-1실습문제/6-1실습문제.vcxproj" Id="0b526333-f485-4a48-a0cb-c91a6faa78a4" />
+  <Project Path="6-2실습문제/6-2실습문제.vcxproj" Id="b072f03d-47c6-49d9-b996-886e6d183097" />
+  <Project Path="6-3실습문제/6-3실습문제.vcxproj" Id="925f1c10-02bc-4216-baa9-5c3b3ec0e472" />
+  <Project Path="6-4실습문제/6-4실습문제.vcxproj" Id="cd458590-2e60-4b64-aed3-0ac3854f14b9" />
+  <Project Path="week7.vcxproj" Id="a76da2ec-2aee-44bd-842f-811664619f54" />
+</Solution>

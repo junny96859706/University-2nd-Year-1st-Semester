@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../단어사전만들기/단어사전만들기.vcxproj" Id="1ce5b9c4-e243-42ba-ae1b-5b5f10d712f9" />
+  <Project Path="week6.vcxproj" Id="54157f1f-33d7-4bfc-b23f-923258cdbc79" />
+</Solution>

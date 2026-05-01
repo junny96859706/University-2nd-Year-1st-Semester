@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../enum_practice/enum_practice.vcxproj" />
+  <Project Path="chap5.vcxproj" />
+</Solution>

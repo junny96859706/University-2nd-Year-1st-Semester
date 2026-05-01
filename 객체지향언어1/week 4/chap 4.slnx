@@ -1,0 +1,13 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../4-4실습문제/4-4실습문제.vcxproj" Id="cba65a0f-a226-4830-af22-596c9e09cd9d" />
+  <Project Path="../4-6실습문제/4-6실습문제.vcxproj" Id="15a0a94f-f70d-4dda-80db-0008a1f6b09b" />
+  <Project Path="4-1실습문제/4-1실습문제.vcxproj" Id="f20583ae-07cc-4edb-b82a-bd68e098a7a2" />
+  <Project Path="4-2실습문제/4-2실습문제.vcxproj" Id="3978eed0-e8fb-40d4-8d4d-b604f7b24ac4" />
+  <Project Path="4-3실습문제/4-3실습문제.vcxproj" Id="ea6fed09-5bb3-46e4-925c-c554cb5e92f1" />
+  <Project Path="4-5실습문제/4-5실습문제.vcxproj" Id="dbc390fb-e4fd-4ba3-b117-24d66ab7fafc" />
+  <Project Path="chap 4.vcxproj" Id="a6887109-e2e8-4c45-80b9-c7d59e491f14" />
+</Solution>

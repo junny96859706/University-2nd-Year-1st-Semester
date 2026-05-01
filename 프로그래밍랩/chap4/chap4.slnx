@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../video/video.vcxproj" Id="d9bc5579-7572-44ba-82c2-ac89deebcc57" />
+  <Project Path="../배열곱풀이/배열곱풀이.vcxproj" Id="721df090-78ad-4431-93ac-38149c0629bf" />
+  <Project Path="chap4.vcxproj" Id="32b07d58-9560-4b4d-b592-afec00d609d5" />
+</Solution>

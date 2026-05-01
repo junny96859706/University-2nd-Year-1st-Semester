@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="7-3장/7-3장.vcxproj" Id="275f11be-b46a-441f-844b-f2da47231ad1" />
+  <Project Path="week9/week9.vcxproj" Id="3ded07ee-2ca8-4b2b-8702-a8dbbc0533b6" />
+  <Project Path="연산자중복/연산자중복.vcxproj" Id="c438618d-5005-47f4-9ee6-a6e16ec290c7" />
+</Solution>

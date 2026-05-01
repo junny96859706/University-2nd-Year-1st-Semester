@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\junny\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2\uD559\uB1441\uD559\uAE30\\\uC790\uB8CC\uAD6C\uC870\\chap3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14DD3A91-069F-4E16-850A-DC2B92156655}|..\\\uD504\uB7A9 \uC18C\uC218\uAC80\uC0AC\uD568\uC218\\\uD504\uB7A9 \uC18C\uC218\uAC80\uC0AC\uD568\uC218.vcxproj|C:\\Users\\junny\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2\uD559\uB1441\uD559\uAE30\\\uC790\uB8CC\uAD6C\uC870\\\uD504\uB7A9 \uC18C\uC218\uAC80\uC0AC\uD568\uC218\\prime_number.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D419970-D881-4CE6-B8DD-B3B0A71A5940}|chap3.vcxproj|C:\\Users\\junny\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2\uD559\uB1441\uD559\uAE30\\\uC790\uB8CC\uAD6C\uC870\\chap3\\hanoi.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D419970-D881-4CE6-B8DD-B3B0A71A5940}|chap3.vcxproj|solutionrelative:hanoi.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "prime_number.c",
+              "DocumentMoniker": "C:\\Users\\junny\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2\uD559\uB1441\uD559\uAE30\\\uC790\uB8CC\uAD6C\uC870\\\uD504\uB7A9 \uC18C\uC218\uAC80\uC0AC\uD568\uC218\\prime_number.c",
+              "RelativeDocumentMoniker": "..\\\uD504\uB7A9 \uC18C\uC218\uAC80\uC0AC\uD568\uC218\\prime_number.c",
+              "ToolTip": "C:\\Users\\junny\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2\uD559\uB1441\uD559\uAE30\\\uC790\uB8CC\uAD6C\uC870\\\uD504\uB7A9 \uC18C\uC218\uAC80\uC0AC\uD568\uC218\\prime_number.c",
+              "RelativeToolTip": "..\\\uD504\uB7A9 \uC18C\uC218\uAC80\uC0AC\uD568\uC218\\prime_number.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-19T06:23:17.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "hanoi.c",
+              "DocumentMoniker": "C:\\Users\\junny\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2\uD559\uB1441\uD559\uAE30\\\uC790\uB8CC\uAD6C\uC870\\chap3\\hanoi.c",
+              "RelativeDocumentMoniker": "hanoi.c",
+              "ToolTip": "C:\\Users\\junny\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2\uD559\uB1441\uD559\uAE30\\\uC790\uB8CC\uAD6C\uC870\\chap3\\hanoi.c",
+              "RelativeToolTip": "hanoi.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-19T04:54:35.519Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+﻿  enum game.c
+C:\Users\junny\OneDrive\바탕 화면\2학년1학기\프로그래밍랩\enum_practice\enum game.c(18,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

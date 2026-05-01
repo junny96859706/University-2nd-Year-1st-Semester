@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../Project3/Project3.vcxproj" Id="7c766bca-632c-4288-9400-39bf7ac9079b" />
+  <Project Path="../후위수식변환/후위수식변환.vcxproj" Id="22a4cf90-c0ac-4f18-9da2-67f213efefef" />
+  <Project Path="chap6.vcxproj" Id="d306a7c1-8298-4a28-af98-ebc8fd80ff17" />
+  <Project Path="stackpractice/stackpractice.vcxproj" Id="81d9f7e8-b8a2-4bf3-ae23-3c52b60424b4" />
+</Solution>
