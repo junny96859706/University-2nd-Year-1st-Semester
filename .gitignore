@@ -9,7 +9,7 @@ x86/
 *.o
 *.pdb
 *.ipch
-*.sln
-*.vcxproj
-*.filters
+!*.sln
+!*.vcxproj
+!*.filters
 *.user
