@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="8-3강의/8-3강의.vcxproj" Id="1e4452ae-4a10-46a9-a5ad-cffc86cf32d6" />
+  <Project Path="8-4강의/8-4강의.vcxproj" Id="6313f4f4-4424-4304-be0e-e2465b746afe" />
+  <Project Path="8-5강의/8-5강의.vcxproj" Id="fb751133-f65b-447e-a8bf-acbe9d09a16a" />
+  <Project Path="parentclass/parentclass.vcxproj" Id="3094ea05-7b4e-4464-a812-be07d3b1afbb" />
+</Solution>
