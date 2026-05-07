@@ -64,6 +64,31 @@ int GetKeyDown() {
 	return 0; //키보드입력이 없으면 0 반환
 }
 
+void DrawGameOver() {
+	system("cls");
+	int x = 18;
+	int y = 8;
+	GotoXY(x, y);
+	printf("========================");
+	GotoXY(x, y + 1);
+	printf("======GAME OVER=========");
+	GotoXY(x, y + 2);
+	printf("========================");
+
+	system("pause");
+}
+
+bool isCollision(const int treeX, const int dinoY) {
+	//트리의 X가 공룡의 몸통쪽에 있을때와 (4~8)
+	//공룡의 Y가 8보다 클때 충돌로 처리
+
+	if (treeX >= 4 && treeX <= 8 && dinoY > 8) {
+		return true;
+	}
+	return false;
+}
+
+
 int main() {
 	bool isJumping = false; //공룡이 점프중인지 여부를 나타내는 변수
 	bool isBottom = true; //공룡이 바닥에 있는지 여부를 나타내는 변수
@@ -73,6 +98,12 @@ int main() {
 	int treeX = TREE_BOTTOM_X; //나무의 초기 x좌표 설정
 		
 	while (true) { //게임루프시작
+		if (isCollision(treeX, dinoY)) {
+			DrawGameOver();
+			break;
+		}
+
+
 		if (GetKeyDown() == 72 && isBottom) {
 			isJumping = true; //위쪽 방향키가 눌렸을때 점프 시작
 			isBottom = false; //공룡이 바닥에 있지 않음
