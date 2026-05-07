@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="dinorunner/dinorunner.vcxproj" />
+  <Project Path="dinorunner/dinorunner.vcxproj" Id="03f0b94c-b044-4bb9-9006-c6201c2dfb87" />
 </Solution>
