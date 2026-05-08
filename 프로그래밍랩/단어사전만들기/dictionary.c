@@ -7,7 +7,7 @@ int main() {
 	int i, index;
 	char dic[WORDS][2][30] = {
 		{"book","책"},
-		{"boy","소년"},
+		{"boy","범진"},
 		{"computer","컴퓨터"},
 		{"language","언어"},
 		{"rain","비"},
