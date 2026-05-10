@@ -1,7 +1,7 @@
 ﻿#define _CRT_SECURE_NO_WARNINGS //10주차수업 - 단순연결리스트
 #include <stdio.h>   
 #include <stdlib.h>
-//시험범위는 연결리스트의 응용(다항식)까지는 나오지 않고 reverse까지만 나온다!!!1
+//시험범위는 연결리스트의 응용(다항식)까지는 나오지 않고 reverse까지만 나온다!!!
 
 typedef int element;
 typedef struct ListNode {
@@ -18,7 +18,7 @@ ListNode* insert_first(ListNode* head, element value) {
 }
 
 void print_list(ListNode* head) {
-	for (ListNode* p = head; p != NULL; p = p->link) 
+	for (ListNode* p = head; p != NULL; p = p->link)
 		printf("%d->", p->data);
 	printf("NULL\n");
 }
@@ -48,7 +48,7 @@ ListNode* concat_list(ListNode* head1, ListNode* head2) { //두개의 연결리�
 ListNode* reverse(ListNode* head) {
 	ListNode* p, * q, * r;
 	//p는 역순으로 만들리스트/q는 현재 역순으로 만들 노드,r은 이미 역순으로 변경된 리스트
-	
+
 	p = head;
 	q = NULL;
 	while (p != NULL) {
@@ -58,7 +58,7 @@ ListNode* reverse(ListNode* head) {
 		q->link = r;
 	}
 	return q;
-	
+
 }
 
 int main(void) {
@@ -95,7 +95,7 @@ int main(void) {
 	head2 = insert_first(head2, 50);
 	print_list(head2);
 
-	ListNode* total = concat_list(head1,head2);
+	ListNode* total = concat_list(head1, head2);
 	print_list(total);
 
 	printf("\n");

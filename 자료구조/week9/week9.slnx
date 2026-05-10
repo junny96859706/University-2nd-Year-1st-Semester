@@ -3,5 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="단순연결리스트/단순연결리스트.vcxproj" />
+  <Project Path="homework/homework.vcxproj" Id="f8f4469b-ab35-43ac-a922-9eb5e11154ba" />
+  <Project Path="단순연결리스트/단순연결리스트.vcxproj" Id="50fa55f8-1400-4096-9e6a-baecb075ec52" />
 </Solution>
