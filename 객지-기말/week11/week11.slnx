@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="9-2절_가상함수/9-2절_가상함수.vcxproj" />
+  <Project Path="9-3절_활용사례/9-3절_활용사례.vcxproj" />
+  <Project Path="가상함수와 추상클래스/가상함수와 추상클래스.vcxproj" />
+</Solution>
