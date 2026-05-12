@@ -3,7 +3,9 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="9-2절_가상함수/9-2절_가상함수.vcxproj" />
-  <Project Path="9-3절_활용사례/9-3절_활용사례.vcxproj" />
-  <Project Path="가상함수와 추상클래스/가상함수와 추상클래스.vcxproj" />
+  <Project Path="9-1절_현강/9-1절_현강.vcxproj" Id="fe07982e-d9c8-493c-a3ed-52ef5e4cface" />
+  <Project Path="9-2절_가상함수/9-2절_가상함수.vcxproj" Id="7dafb1dd-18e1-4ba8-9236-8ad1949a9ee6" />
+  <Project Path="9-2절_현강/9-2절_현강.vcxproj" Id="418ec7b5-6514-439e-b7fa-9f5363a618f1" />
+  <Project Path="9-3절_활용사례/9-3절_활용사례.vcxproj" Id="cc3da723-ebd0-462c-b272-c04bcfd352ae" />
+  <Project Path="가상함수와 추상클래스/가상함수와 추상클래스.vcxproj" Id="e0e22f36-1575-4695-ad98-2eddd17cc475" />
 </Solution>
