@@ -8,4 +8,8 @@
   <Project Path="9-2절_현강/9-2절_현강.vcxproj" Id="418ec7b5-6514-439e-b7fa-9f5363a618f1" />
   <Project Path="9-3절_활용사례/9-3절_활용사례.vcxproj" Id="cc3da723-ebd0-462c-b272-c04bcfd352ae" />
   <Project Path="가상함수와 추상클래스/가상함수와 추상클래스.vcxproj" Id="e0e22f36-1575-4695-ad98-2eddd17cc475" />
+  <Project Path="실습문제9-1/실습문제9-1.vcxproj" Id="7e631fde-a6f5-4f5d-ada9-dca109529dba" />
+  <Project Path="실습문제9-2/실습문제9-2.vcxproj" Id="98364fad-6197-46a3-a4e1-7920314097b0" />
+  <Project Path="실습문제9-3/실습문제9-3.vcxproj" Id="1835ada1-7552-4892-bc94-1767b85be0c0" />
+  <Project Path="실습문제9-4/실습문제9-4.vcxproj" Id="78940e19-caff-4a68-8eed-5249d9c7646e" />
 </Solution>
