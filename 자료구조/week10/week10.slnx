@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="원형,이중연결리스트/원형,이중연결리스트.vcxproj" />
+  <Project Path="이중연결리스트 역순출력프로그램/이중연결리스트 역순출력프로그램.vcxproj" />
+</Solution>
