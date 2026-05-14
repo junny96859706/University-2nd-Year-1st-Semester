@@ -3,6 +3,7 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="원형,이중연결리스트/원형,이중연결리스트.vcxproj" />
-  <Project Path="이중연결리스트 역순출력프로그램/이중연결리스트 역순출력프로그램.vcxproj" />
+  <Project Path="원형,이중연결리스트/원형,이중연결리스트.vcxproj" Id="67b1bb7b-b1ee-45c6-9175-da9948c631bd" />
+  <Project Path="이중연결리스트 역순출력프로그램/이중연결리스트 역순출력프로그램.vcxproj" Id="07b5ab16-bb9d-450c-bb3a-c9cef65ac39d" />
+  <Project Path="이중연결리스트 자료검색/이중연결리스트 자료검색.vcxproj" Id="79e0dc64-777b-4ec1-b8d9-5263b23dac80" />
 </Solution>

@@ -94,6 +94,10 @@ Point Shape[][4][4] = {
 }
 };
 
+int rot;
+char* arTile[] = {"  ","■","□"};
+int board[BW + 2][BH + 2]; //게임판 배열
+
 void gotoXY(int x, int y) {
 	COORD pos;
 	pos.X = (SHORT)(x - 1);
@@ -102,11 +106,20 @@ void gotoXY(int x, int y) {
 	SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), pos);
 }
 
+void DrawBoard() {
+	for (int x = 0; x < BW + 2; x++) {
+		for (int y = 0; y < BH + 2; y++) {
+			gotoXY(BX + x * 2, BY + y);
+			printf("%s", arTile[board[x][y]]);
+		}
+	}
+}
+
 void PrintBlock(int block, int startX, int startY) {
 	//각블록 4칸 출력
 	for (int i = 0; i < 4; i++) {
-		int x = startX + Shape[block][0][i].x * 2; //블록 간격을 2로 설정해서 출력
-		int y = startY + Shape[block][0][i].y;
+		int x = startX + Shape[block][rot][i].x * 2; //블록 간격을 2로 설정해서 출력
+		int y = startY + Shape[block][rot][i].y;
 
 		gotoXY(x, y);
 		printf("■");
@@ -114,11 +127,43 @@ void PrintBlock(int block, int startX, int startY) {
 }
 
 int main(void) {
-	//블록 7개를 순서대로 출력하는 테스트 코드
-	for (int i = 0; i < 7;i++) {
-		gotoXY(0, 3 + i * 4); //각블록을 아래로 간격을 두고 출력
-		printf("블록 %d: ", i);
-		PrintBlock(i, 15, 3 + i * 4); //각블록을 오른쪽으로 간격을 두고 출력
-		printf("\n");
+	int ch;
+	for (int x = 0; x < BW + 2; x++) {
+		for (int y = 0; y < BH + 2; y++) {
+			if (x == 0 || x == BW + 1 || y == BH + 1) {
+				board[x][y] = WALL;
+			}
+			else
+				board[x][y] = EMPTY;
+		}
 	}
+
+	while (1) {
+		system("cls"); //화면지우기
+
+		for (int i = 0; i < 7; i++) {
+			gotoXY(0, 3 + i * 4); //각블록을 아래로 간격을 두고 출력
+			printf("블록 %d: ", i);
+			PrintBlock(i, 15, 3 + i * 4); //각블록을 오른쪽으로 간격을 두고 출력
+			printf("\n");
+		}
+
+		ch = _getch();
+		if (ch == 224) { 
+			ch = _getch();
+
+			if (ch == UP) {
+				rot++;
+				if (rot > 3)
+					rot = 0; //회전상태는 0~3사이로 유지
+			}
+			else {
+				system("cls"); 
+				DrawBoard();
+				_getch(); //종료방지
+			}
+		}
+	}
+	system("cls"); //화면 지우기
+	return 0;
 }

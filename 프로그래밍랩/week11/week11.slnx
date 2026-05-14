@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="테트리스게임/테트리스게임.vcxproj" />
+  <Project Path="테트리스게임/테트리스게임.vcxproj" Id="b3aaf024-c66e-43bc-bea2-e0242999b953" />
 </Solution>
