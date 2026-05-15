@@ -8,5 +8,6 @@
   <Project Path="실습문제1번/실습문제1번.vcxproj" Id="7f5c36a8-6f6f-4aba-8405-30dbe2ddfd64" />
   <Project Path="실습문제2번/실습문제2번.vcxproj" Id="1b2e6893-a890-4129-87b0-660988bb9655" />
   <Project Path="실습문제3번/실습문제3번.vcxproj" Id="ade23d3f-da29-4020-9533-aa2becbbeca8" />
+  <Project Path="실습문제6번/실습문제6번.vcxproj" Id="b5cfed32-605f-4153-916b-d1dfd44645a9" />
   <Project Path="연산자중복/연산자중복.vcxproj" Id="c438618d-5005-47f4-9ee6-a6e16ec290c7" />
 </Solution>
