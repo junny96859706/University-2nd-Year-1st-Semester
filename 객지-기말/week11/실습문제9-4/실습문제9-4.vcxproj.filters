@@ -15,13 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Abstractpoint.cpp">
+    <ClCompile Include="AbstractPoint.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="main.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Abstractpoint.h">
+    <ClCompile Include="AbstractPoint.h">
       <Filter>헤더 파일</Filter>
     </ClCompile>
     <ClCompile Include="Platinum.cpp">

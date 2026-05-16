@@ -128,8 +128,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="Abstractpoint.h" />
-    <ClCompile Include="Abstractpoint.cpp" />
+    <ClCompile Include="AbstractPoint.h" />
+    <ClCompile Include="AbstractPoint.cpp" />
     <ClCompile Include="Platinum.cpp" />
   </ItemGroup>
   <ItemGroup>
