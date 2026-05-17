@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="기말고사프로젝트/기말고사프로젝트.vcxproj" />
+</Solution>
