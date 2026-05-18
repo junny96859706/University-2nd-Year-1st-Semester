@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="기말고사프로젝트/기말고사프로젝트.vcxproj" />
+  <Project Path="기말고사프로젝트/기말고사프로젝트.vcxproj" Id="cae37039-3b0d-41df-bfee-fb0bb5c1aa04" />
 </Solution>
