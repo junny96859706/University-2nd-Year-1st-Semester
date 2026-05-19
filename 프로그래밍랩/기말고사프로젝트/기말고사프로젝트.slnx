@@ -3,5 +3,9 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="real_project/real_project.vcxproj" Id="ed78c96d-5c2f-4e24-b0bd-5752b9820997" />
+  <Project Path="reference2/reference2.vcxproj" Id="8722e257-6522-44ab-8b24-65dc4705371a" />
   <Project Path="기말고사프로젝트/기말고사프로젝트.vcxproj" Id="cae37039-3b0d-41df-bfee-fb0bb5c1aa04" />
+  <Project Path="쌀국수 국물 흘리지 않기/쌀국수 국물 흘리지 않기.vcxproj" Id="56395ca9-ce44-45c0-bf2f-c956658f147c" />
+  <Project Path="쌀국수 주문하기/쌀국수 주문하기.vcxproj" Id="9f704ffe-68af-4cd1-92f2-80f0ca66e843" />
 </Solution>
