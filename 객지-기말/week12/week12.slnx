@@ -3,6 +3,7 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="map영한사전 만들기/map영한사전 만들기.vcxproj" Id="dd32f73c-202e-46a8-add2-159c156d7046" />
   <Project Path="STL/STL.vcxproj" Id="4534a2bc-708c-4fd9-8543-516ffcaeda27" />
   <Project Path="studt10-4-1_vector/studt10-4-1_vector.vcxproj" Id="155fb964-38ab-4142-a520-e3ed0ba001d0" />
   <Project Path="study10-2-1/study10-2-1.vcxproj" Id="1ff31353-eef9-4dea-8294-35b4e1076985" />
@@ -10,4 +11,8 @@
   <Project Path="study10-3/study10-3.vcxproj" Id="7aa7d7e5-929d-46c6-a162-c571b19e1670" />
   <Project Path="study10-4-2/study10-4-2.vcxproj" Id="3b4e03ec-f0c2-4b09-a90f-d527fd9294d5" />
   <Project Path="study10-4/study10-4.vcxproj" Id="ef2ab2a1-0184-4d8f-9d67-0396fd13d478" />
+  <Project Path="study_class1/study_class1.vcxproj" Id="0b80a7c3-876c-40c4-9fe2-2d9653914906" />
+  <Project Path="study_class2/study_class2.vcxproj" Id="31411c58-88cd-4f87-9077-db9ecdd8169d" />
+  <Project Path="study_class3/study_class3.vcxproj" Id="f6167b30-39fb-40e6-a422-306cf3feaddd" />
+  <Project Path="study_class4/study_class4.vcxproj" Id="a4267895-bd5e-48f9-9bd8-d090a860355b" />
 </Solution>
