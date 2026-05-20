@@ -163,7 +163,7 @@ int main() {
 			if (ch == 'a' || ch == 'A') playerX--;
 			if (ch == 'd' || ch == 'D')playerX++;
 			//맵밖으로 나가지 않도록 조건문 사용
-			if (playerX < 0) playerX = 0;
+			if (playerX < 0) playerX = 0; 
 			if (playerX >= MAP_WIDTH) playerX = MAP_WIDTH - 1;
 			if (playerY < 0) playerY = 0;
 			if (playerY >= MAP_HEIGHT) playerY = MAP_HEIGHT - 2;

@@ -20,12 +20,12 @@ int main() {
     end_time = clock();   // 타이머 종료!
 
     // 걸린 시간 계산
-    double duration = (double)(end_time - start_time) / CLOCKS_PER_SEC;
+    double total_time = (double)(end_time - start_time) / CLOCKS_PER_SEC;
 
-    printf("\n걸린 시간: %.2f초\n", duration);
+    printf("\n걸린 시간: %.2f초\n", total_time);
 
     // 1. 시간 초과 검사
-    if (duration > limit_time) {
+    if (total_time > limit_time) {
         printf("시간 초과! 점원이 알아듣지 못하고 쫓겨났습니다. (주문 실패)\n");
     }
     // 2. 정답 일치 검사
