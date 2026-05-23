@@ -1,18 +1,13 @@
-﻿#define _CRT_SECURE_NO_WARNINGS
-#include <stdio.h>
+﻿#include <stdio.h>
 #include <stdlib.h> //동적할당을 위한 헤더
 
-//일반 이진 트리에서 최대값과 최소값을 탐색하기 위한 함수를 작성하세요.
-// 이진 탐색 트리가 아닙니다!
-//(hint: 순환호출을 사용하세요.)
-
-typedef struct {
+typedef struct TreeNode{
 	int data;
 	struct TreeNode* left;
 	struct TreeNode* right;
 }TreeNode;
 
-void preorder(TreeNode* root) {
+void preorder(TreeNode* root) { //이진트리 전위순회 함수
 	if (root != NULL) {
 		printf("%d =>",root->data); //노드방문
 		preorder(root->left); //왼쪽서브트리 순회
@@ -20,7 +15,8 @@ void preorder(TreeNode* root) {
 	}
 }
 
-int Max = 0;
+int Max = INT_MIN; //컴퓨터가 표현할수 있는 가장 작은 음수
+int Min = INT_MAX; //컴퓨터가 표현할수 있는 가장 큰 양수
 
 int find_Max(TreeNode* root) {
 	if (root != NULL) {
@@ -33,8 +29,15 @@ int find_Max(TreeNode* root) {
 	return Max;
 }
 
-int find_Low(TreeNode* root) {
+int find_Min(TreeNode* root) {
+	if (root != NULL) {
+		if (Min > root->data)
+			Min = root->data;
 
+		find_Min(root->right);
+		find_Min(root->left);
+	}
+	return Min;
 }
 
 int main() {
@@ -54,10 +57,9 @@ int main() {
 	n3->data = 30; //세번째 노드 설정
 	n3->left = NULL;
 	n3->right = NULL;
-//---------------------------------------
 
-	printf("전위순회");
-	preorder(n1);
+	printf("최소값:%d\n", find_Min(n1));
+	printf("최댓값:%d", find_Max(n1));
 
 	free(n1); free(n2); free(n3);
 	return 0;
