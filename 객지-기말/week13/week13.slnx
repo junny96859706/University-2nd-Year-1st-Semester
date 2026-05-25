@@ -1,0 +1,14 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="stream/stream.vcxproj" />
+  <Project Path="study11-3-2/study11-3-2.vcxproj" />
+  <Project Path="study11-3-3/study11-3-3.vcxproj" />
+  <Project Path="study11-3/study11-3.vcxproj" />
+  <Project Path="study11-4/study11-4.vcxproj" />
+  <Project Path="study11-5/study11-5.vcxproj" />
+  <Project Path="study11-6-2/study11-6-2.vcxproj" />
+  <Project Path="study11-6/study11-6.vcxproj" />
+</Solution>
