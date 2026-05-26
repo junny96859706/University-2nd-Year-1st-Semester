@@ -3,12 +3,15 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="stream/stream.vcxproj" />
-  <Project Path="study11-3-2/study11-3-2.vcxproj" />
-  <Project Path="study11-3-3/study11-3-3.vcxproj" />
-  <Project Path="study11-3/study11-3.vcxproj" />
-  <Project Path="study11-4/study11-4.vcxproj" />
-  <Project Path="study11-5/study11-5.vcxproj" />
-  <Project Path="study11-6-2/study11-6-2.vcxproj" />
-  <Project Path="study11-6/study11-6.vcxproj" />
+  <Project Path="stream/stream.vcxproj" Id="daa97661-7e2b-4a6a-8f88-b2283b3fda84" />
+  <Project Path="study11-3-2/study11-3-2.vcxproj" Id="409f0ca5-76cb-4388-b89d-8c8c85ea4b4e" />
+  <Project Path="study11-3-3/study11-3-3.vcxproj" Id="fa9f82c5-29ee-4592-a8f6-3c002da7b84e" />
+  <Project Path="study11-3/study11-3.vcxproj" Id="288c2d69-946e-47f5-bd9a-e497b9d4afa9" />
+  <Project Path="study11-4/study11-4.vcxproj" Id="55d83e33-fa1e-467c-a928-51f9d20b8560" />
+  <Project Path="study11-5/study11-5.vcxproj" Id="5955f364-feca-4482-8f7a-615a39d1a049" />
+  <Project Path="study11-6-2/study11-6-2.vcxproj" Id="2b5fbdd3-547b-453d-9f4f-889e3a08dc04" />
+  <Project Path="study11-6/study11-6.vcxproj" Id="367e8b77-08e8-4c3c-9be2-ec954042d785" />
+  <Project Path="study_class1/study_class1.vcxproj" Id="7b5d1f15-72a6-4dce-b007-05b526ad591b" />
+  <Project Path="study_class2/study_class2.vcxproj" Id="e874bc5e-6afa-434c-9be3-0b0c10eca176" />
+  <Project Path="study_class3/study_class3.vcxproj" Id="ab02441e-9a0e-44d0-9d97-679cad962a79" />
 </Solution>
