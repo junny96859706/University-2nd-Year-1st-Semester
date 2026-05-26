@@ -14,4 +14,8 @@
   <Project Path="study_class1/study_class1.vcxproj" Id="7b5d1f15-72a6-4dce-b007-05b526ad591b" />
   <Project Path="study_class2/study_class2.vcxproj" Id="e874bc5e-6afa-434c-9be3-0b0c10eca176" />
   <Project Path="study_class3/study_class3.vcxproj" Id="ab02441e-9a0e-44d0-9d97-679cad962a79" />
+  <Project Path="실습문제11-1/실습문제11-1.vcxproj" Id="8712da33-2c24-4fb7-afac-0f3449f7b247" />
+  <Project Path="실습문제11-2/실습문제11-2.vcxproj" Id="6021db3a-2e19-4dfd-8d57-2fc90f0ab2fe" />
+  <Project Path="실습문제11-3/실습문제11-3.vcxproj" Id="5e54abda-a8e2-4e93-8324-b38a52277d97" />
+  <Project Path="실습문제11-4/실습문제11-4.vcxproj" Id="4a269b49-51d4-439c-8d7a-5f0c24296526" />
 </Solution>
