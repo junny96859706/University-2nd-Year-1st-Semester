@@ -15,7 +15,13 @@
   <Project Path="study_class2/study_class2.vcxproj" Id="e874bc5e-6afa-434c-9be3-0b0c10eca176" />
   <Project Path="study_class3/study_class3.vcxproj" Id="ab02441e-9a0e-44d0-9d97-679cad962a79" />
   <Project Path="실습문제11-1/실습문제11-1.vcxproj" Id="8712da33-2c24-4fb7-afac-0f3449f7b247" />
+  <Project Path="실습문제11-10/실습문제11-10.vcxproj" Id="66c2a2a4-43d1-414a-bfd4-752bf08ff5e3" />
   <Project Path="실습문제11-2/실습문제11-2.vcxproj" Id="6021db3a-2e19-4dfd-8d57-2fc90f0ab2fe" />
   <Project Path="실습문제11-3/실습문제11-3.vcxproj" Id="5e54abda-a8e2-4e93-8324-b38a52277d97" />
   <Project Path="실습문제11-4/실습문제11-4.vcxproj" Id="4a269b49-51d4-439c-8d7a-5f0c24296526" />
+  <Project Path="실습문제11-5/실습문제11-5.vcxproj" Id="4cba1fbd-937f-4e2e-809f-f7d46859ca8b" />
+  <Project Path="실습문제11-6/실습문제11-6.vcxproj" Id="b19e00db-2880-488a-bebd-eaa4ac901b97" />
+  <Project Path="실습문제11-7/실습문제11-7.vcxproj" Id="b3e18502-6f17-47ec-bb12-a371dbcd1fec" />
+  <Project Path="실습문제11-8/실습문제11-8.vcxproj" Id="464e38f4-175c-4548-a3b4-e3e0c2fd8273" />
+  <Project Path="실습문제11-9/실습문제11-9.vcxproj" Id="25ec631d-a398-4bee-895c-2e88e6567982" />
 </Solution>
