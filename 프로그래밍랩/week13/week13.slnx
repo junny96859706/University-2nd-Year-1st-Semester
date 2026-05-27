@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="아스키코드 출력 및 색상바꾸기/아스키코드 출력 및 색상바꾸기.vcxproj" />
+</Solution>
