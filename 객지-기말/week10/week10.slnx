@@ -7,4 +7,9 @@
   <Project Path="8-4강의/8-4강의.vcxproj" Id="6313f4f4-4424-4304-be0e-e2465b746afe" />
   <Project Path="8-5강의/8-5강의.vcxproj" Id="fb751133-f65b-447e-a8bf-acbe9d09a16a" />
   <Project Path="parentclass/parentclass.vcxproj" Id="3094ea05-7b4e-4464-a812-be07d3b1afbb" />
+  <Project Path="실습문제1번/실습문제1번.vcxproj" Id="f711f852-d535-4227-87b1-311e62359519" />
+  <Project Path="실습문제2번/실습문제2번.vcxproj" Id="bb1d3fad-afed-4dce-b094-75a66cdda59e" />
+  <Project Path="실습문제3번/실습문제3번.vcxproj" Id="6c5f7de8-6056-43b3-826b-4162435da160" />
+  <Project Path="실습문제4번/실습문제4번.vcxproj" Id="f5d036aa-b9dd-46c2-93b0-96e993ee0233" />
+  <Project Path="실습문제5번-1/실습문제5번-1.vcxproj" Id="8ae0ba3c-bd05-4d5a-843a-a75042d782be" />
 </Solution>
