@@ -24,7 +24,7 @@ void search(vector<string>& v, string word) {
 
 int main() {
 	vector<string> wordVector;
-	ifstream fin("words.txt"); //프로그램과 같은 파일에 저장하면 경로지정 안써도 된다
+	ifstream fin("c:\\temp\\words.txt"); //프로그램과 같은 파일에 저장하면 경로지정 안써도 된다
 	if (!fin) {
 		cout << "open error" << endl;
 		return 0;
