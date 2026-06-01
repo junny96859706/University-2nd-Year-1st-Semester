@@ -7,7 +7,10 @@ class Chart {
 public:
 	Chart(int num) {
 		this->num = num;
-		chart = new int[num](); //() 동적배열할당시 ()붙이면 내부 값이 0으로 초기화 된다!!
+		chart = new int[num]; //() 동적배열할당시 ()붙이면 내부 값이 0으로 초기화 된다!!
+		for (int i = 0; i < num; i++) {
+			chart[i] = NULL;
+		}
 	}
 
 	~Chart() {
@@ -27,7 +30,7 @@ public:
 
 bool Chart::operator!() {
 	for (int i = 0; i < num; i++) {
-		if (chart[i] != 0)
+		if (chart[i] != NULL)
 			return false;
 	}
 	return true;
