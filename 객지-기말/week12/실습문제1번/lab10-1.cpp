@@ -9,6 +9,7 @@ T biggest(T array[],int n) {
 		if (temp < array[i])
 			temp = array[i];
 	}
+	return temp;
 }
 
 int main() {
