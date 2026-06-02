@@ -9,4 +9,8 @@
   <Project Path="study12-4/study12-4.vcxproj" Id="ba568018-3fda-43c8-9ebb-c7a503edf958" />
   <Project Path="study12-5/study12-5.vcxproj" Id="e884ebf8-1497-465b-a52c-ba8877d0833c" />
   <Project Path="study12-6/study12-6.vcxproj" Id="e39e46d7-61d9-4475-b92d-945d390650af" />
+  <Project Path="study_class1/study_class1.vcxproj" Id="54aa8c90-082a-47a2-afc3-221c2cff8840" />
+  <Project Path="study_class2/study_class2.vcxproj" Id="36f82344-26af-4a11-8f11-6cfc183eb470" />
+  <Project Path="study_class3/study_class3.vcxproj" Id="6d706edb-4c8a-47eb-9f4c-56f9bfc85a4c" />
+  <Project Path="study_class4/study_class4.vcxproj" Id="6100c3fc-63f0-4676-b198-d4cc79eccfb2" />
 </Solution>
