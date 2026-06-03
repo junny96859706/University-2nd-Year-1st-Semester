@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="piano/piano.vcxproj" Id="55d91d01-908d-4a6b-bfb3-d6c75a011496" />
+  <Project Path="사운드출력/사운드출력.vcxproj" Id="f08f1209-27bd-46a9-9efd-e6b42cbe4ec0" />
+</Solution>
