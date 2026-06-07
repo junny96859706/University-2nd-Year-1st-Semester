@@ -15,5 +15,8 @@
   <Project Path="study_class4/study_class4.vcxproj" Id="6100c3fc-63f0-4676-b198-d4cc79eccfb2" />
   <Project Path="실습문제12-1/실습문제12-1.vcxproj" Id="306950b1-1209-4861-a368-41863d5c74d0" />
   <Project Path="실습문제2번/실습문제2번.vcxproj" Id="33da9614-a9c0-476f-9ab1-8e67a0d94538" />
+  <Project Path="실습문제3번 - ASCII방식/실습문제3번 - ASCII방식.vcxproj" Id="efed6ad8-a934-4104-8ec5-81bcfe44fec1" />
   <Project Path="실습문제3번/실습문제3번.vcxproj" Id="d69946f9-db9c-4b57-9c37-771b66ae5cd1" />
+  <Project Path="실습문제4번/실습문제4번.vcxproj" Id="0fb8e350-4ebc-498c-b53c-247782ebc32e" />
+  <Project Path="실습문제5번/실습문제5번.vcxproj" Id="7b28364a-5330-4987-8604-743c2d82b158" />
 </Solution>
