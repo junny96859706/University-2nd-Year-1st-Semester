@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="단순연결리스트1/단순연결리스트1.vcxproj" />
+  <Project Path="배열연결리스트/배열연결리스트.vcxproj" />
+  <Project Path="원형연결리스트2/원형연결리스트2.vcxproj" />
+</Solution>
