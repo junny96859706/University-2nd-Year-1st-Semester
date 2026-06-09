@@ -14,7 +14,7 @@ public:
 
 	Matrix operator+(Matrix& p);
 	Matrix& operator+=(Matrix& p);
-	friend bool operator==(Matrix& p, Matrix& q);
+	friend bool operator==(const Matrix& p,const Matrix& q);
 };
 
 Matrix Matrix::operator+(Matrix& p) {
@@ -34,7 +34,7 @@ Matrix& Matrix::operator+=(Matrix& p) {
 	return *this;
 }
 
-bool operator==(Matrix& p, Matrix& q) {
+bool operator==(const Matrix& p,const Matrix& q) {
 	if (p.x1 == q.x1 && p.x2 == q.x2 && p.x3 == q.x3 && p.x4 == q.x4)
 		return true;
 	else
