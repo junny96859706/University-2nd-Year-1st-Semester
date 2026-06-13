@@ -3,6 +3,8 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="ex10-5/ex10-5.vcxproj" Id="babc878b-9616-42e8-af9e-3e4fe71608d3" />
+  <Project Path="ex10-9/ex10-9.vcxproj" Id="e9c3f79f-0676-4c3d-a813-0424f391b032" />
   <Project Path="map영한사전 만들기/map영한사전 만들기.vcxproj" Id="dd32f73c-202e-46a8-add2-159c156d7046" />
   <Project Path="STL/STL.vcxproj" Id="4534a2bc-708c-4fd9-8543-516ffcaeda27" />
   <Project Path="studt10-4-1_vector/studt10-4-1_vector.vcxproj" Id="155fb964-38ab-4142-a520-e3ed0ba001d0" />
