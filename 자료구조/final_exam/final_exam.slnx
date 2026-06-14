@@ -3,7 +3,7 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="단순연결리스트1/단순연결리스트1.vcxproj" />
-  <Project Path="배열연결리스트/배열연결리스트.vcxproj" />
-  <Project Path="원형연결리스트2/원형연결리스트2.vcxproj" />
+  <Project Path="단순연결리스트1/단순연결리스트1.vcxproj" Id="afe424d3-b91d-484e-b5dc-7056909051e9" />
+  <Project Path="배열연결리스트/배열연결리스트.vcxproj" Id="45a9af43-bf1d-4b4e-9659-dca20241c837" />
+  <Project Path="원형연결리스트2/원형연결리스트2.vcxproj" Id="9edda780-c343-4ae3-883d-7087ea658a7c" />
 </Solution>
